@@ -1,0 +1,2 @@
+../ECU/UltrasonicSensor/ultrasonic.c:15:13:Delay_10US	2
+../ECU/UltrasonicSensor/ultrasonic.c:21:6:Ultrasonic_Get_Distance	1

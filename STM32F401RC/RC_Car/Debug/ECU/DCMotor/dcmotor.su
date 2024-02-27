@@ -1,0 +1,3 @@
+../ECU/DCMotor/dcmotor.c:10:6:DCMotor_Forward	16	static
+../ECU/DCMotor/dcmotor.c:20:6:DCMotor_Backward	16	static
+../ECU/DCMotor/dcmotor.c:30:6:DCMotor_Stop	16	static
