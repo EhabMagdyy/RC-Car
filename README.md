@@ -1,9 +1,9 @@
-Video link: https://drive.google.com/file/d/1Kdw9BvJ0-7vWIvglUmvbKWpW5uF_MUxj/view?usp=drivesdk
+Video link: https://youtu.be/p8nmH1XYCDw?si=6nafoKHqA5kDo56b
 
 # Features 
-    - remote controlled car.
-    - obstacle avoidance.
-    - changing speed is possible.
+    - Remote controlled car.
+    - Obstacle avoidance.
+    - Changing speed is possible.
 
 # Tools
     - STM32F401RCT6 Microcontroller.
