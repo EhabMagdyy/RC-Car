@@ -1,22 +1,9 @@
-/* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.c
-  * @author         : Ehab Magdy Abdallah
-  * @brief          : Main program body
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2024 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  ******************************************************************************
-  */
-/* USER CODE END Header */
+/*****************************************************************************************************************************
+**********************************    Author  : Ehab Magdy Abdullah                      *************************************
+**********************************    Linkedin: https://www.linkedin.com/in/ehabmagdyy/  *************************************
+**********************************    Youtube : https://www.youtube.com/@EhabMagdyy      *************************************
+******************************************************************************************************************************/
+
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "tim.h"
