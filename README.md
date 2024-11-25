@@ -1,3 +1,2 @@
 # Video link: https://youtu.be/p8nmH1XYCDw?si=6nafoKHqA5kDo56b
-
-![Youtube Thumbnails](https://github.com/EhabMagdyy/RC-Car/assets/132620660/a3053dec-a0ce-450d-87c4-1a929432fcc3)
+![3](https://github.com/user-attachments/assets/a49d847b-26ae-4507-8eb7-0a067322557b)
